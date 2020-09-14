@@ -2,10 +2,10 @@
 
 # How to install?
 **Note: Make sure you have go installed in your environment.**
-**[Here's how you can install](https://golang.org/doc/install)**
+**[Here's how you can install Go](https://golang.org/doc/install)**
 
 ```
-git clone "https://github.com/FallAngel1337/DirBrute.git
+git clone https://github.com/FallAngel1337/DirBrute.git
 cd DirBrute
 go run dirbrute.go -h
 ```
